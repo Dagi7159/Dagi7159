@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dagi7159
 - 👀 I’m interested in building mobile apps with flutter and game developement with unity
-- 🌱 I’m currently learning in computer science and game development 
+- 🌱 I’m currently learning computer science(Senior) 
 - 💞️ I’m looking to collaborate on app making and game development
 - 📫 How to reach me by my telegram account @Dagi_Za or dagmawi@gmail.com
 
